@@ -17,7 +17,7 @@ Camera  | 13/5 MPx
 
 ## How make it?
  
-#Create the necessary directories
+# Create the necessary directories
     mkdir kernel/
     cd kernel/
 # First you need to download the repository
